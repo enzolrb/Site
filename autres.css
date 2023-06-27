@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+*{
+	margin: 0;
+    padding: 0;
+	
+}
+
+header {
+    background-color: #f5f5f5; /* Couleur beige claire pastel pour la barre de navigation */
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333; /* Couleur du texte de la barre de navigation */
+}
+
+
+
+.logo {
+      display: inline-block;
+      height: 65px; 
+      margin-right: 10px; 
+	  border-radius: 15px;
+	  /* margin-top: 5px; */
+
+    }
+
+.titre {
+	display: inline-block;
+	
+	
+	
+}
+
+.titre {
+	margin-left: 50;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+}
+
+    a {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: transparent;
+      color: #433E3D;
+      transition: background-color 0.5s ease; 
+	  border-radius: 7px;
+	
+    }
+
+     a:hover {
+      background-color: #E7E3E2;
+    }
+	
+.bouton 1 {
+	height: 50px;
+	
+}
+
+.titre1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 30px
+	 
+
+	}
+
+.titre1 {
+	margin-left: 40px;
+}
+
+.text {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.text {
+	margin-left: 40px; 
+}
+
+.text2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+}
+
+.text2 {
+	margin-left: 40px;
+}
+
+.text3 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.text3 {
+	margin-left: 40px;
+}
+
+.img1 {
+	height: 520px;
+}
+
+.img1 {
+	border-radius: 5px;
+	margin-left: 370px;
+	margin-top: 10px;
+}
+
+.text4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+}
+
+.text4 {
+	margin-left: 40px;
+}
+
+.text5 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.text5 {
+	margin-left: 40px;
+}
+
+.text6 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.text6 {
+	margin-left: 40px;
+}
+
+.text7 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	  
+
+}
+
+.text7 {
+	margin-left: 40px;
+}
+
+
+.text8 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.text8 {
+	margin-left: 40px;
+}
+
+.text9 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+}
+
+.text9 {
+	margin-left: 40px;
+}
+
+
+
+
